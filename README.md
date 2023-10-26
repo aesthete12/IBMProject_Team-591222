@@ -7,5 +7,5 @@ IBM Project Task on topic - Dissecting the Digital Landscape: A Comprehensive An
 [Data Flow Diagram](https://drive.google.com/drive/folders/1J6AMmptyEcuRVIpPlx4xJq8Fj5jm-YUB?usp=sharing)
 
 # Overview
-We are building a dashboard that explains the comprehensive analysis framework that integrates data visualization and analytics to unravel the complexities of the social media landscape. We have used IBM Cognos's robust reporting capabilities with Tableau's intuitive visualizations, we aim to create a dynamic analytical environment for dissecting user behavior, mapping influencer impact, scrutinizing monetization strategies, and tracking the spread of misinformation, along with other critical aspects of social media dynamics.
+We are building a dashboard that explains the comprehensive analysis framework that integrates data visualization and analytics to unravel the complexities of the social media landscape. We have used IBM Cognos's robust reporting capabilities with Tableau's intuitive visualizations, we aim to create a dynamic analytical environment for dissecting user behavior, mapping influencer impact, scrutinizing monetization strategies, and tracking the spread of misinformation, along with other critical aspects of social media dynamics. <br />
 Project Domain: Visualizations through IBM Cognos and Tableau
